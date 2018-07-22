@@ -1,11 +1,10 @@
+---
+name: Tweet
+description: New Tweet for twitter
 
-            ---
-            name: Tweet
-            description: New Tweet for twitter
+---
 
-            ---
-
-            ## Content description
+## Content description
 __Description of the content and reasoning for posting it__
 ## Tweet Content
 __todo__
