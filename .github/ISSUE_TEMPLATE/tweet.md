@@ -1,6 +1,6 @@
 ---
 name: Tweet
-description: New Tweet for twitter
+about: New Tweet for twitter
 
 ---
 
