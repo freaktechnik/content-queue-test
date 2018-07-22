@@ -1,6 +1,6 @@
 ---
 name: Retweet
-description: New Retweet for twitter
+about: New Retweet for twitter
 
 ---
 
